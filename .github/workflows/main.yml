@@ -28,6 +28,11 @@ jobs:
         run: npm install
         working-directory: website
 
+      - name: git config
+        run: |
+          git config --global user.email "rian@gellibrand.info"
+          git config --global user.name "Rian"
+
       - name: Deploy
         run: npm run deploy
         working-directory: website
