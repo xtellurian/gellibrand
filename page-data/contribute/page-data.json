@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-frontmatter-slug-js",
+    "path": "/contribute/",
+    "result": {"data":{"markdownRemark":{"html":"<p>This site is public source, you can find and contribute here: <a href=\"https://github.com/xtellurian/gellibrand\">https://github.com/xtellurian/gellibrand</a></p>","frontmatter":{"slug":"/contribute","title":"Contribute | Gellibrand | Election 2022"}}},"pageContext":{"id":"a4f2e35b-f881-5821-9873-3891475a68bf","frontmatter__slug":"/contribute","__params":{"frontmatter__slug":"contribute"}}},
+    "staticQueryHashes": []}
